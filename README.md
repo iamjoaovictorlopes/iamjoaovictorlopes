@@ -35,6 +35,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-joaovictorlopes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovictorlopes1998/)](https://www.linkedin.com/in/joaovictorlopes1998/)
-[![E-mail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joaovictorlopesg@hotmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaovictorlopesg)
 [![GitHub](https://img.shields.io/github/followers/iamjoaovictorlopes?label=follow&style=social)](https://github.com/iamjoaovictorlopes)
